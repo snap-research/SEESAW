@@ -68,7 +68,7 @@ python link_prediction.py --dataset Cora --rank 32 --embedding_dim 32
 │       └── readme.md
 ├── example_results/
 │   ├── *.txt
-│   ├── *.npy
+│   └── *.npy
 ├── link_prediction.py
 ├── link_prediction.sh
 ├── node_classification.py
